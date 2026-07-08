@@ -51,7 +51,7 @@
 
 <br>
 
-## Contributions
+<!-- ## Contributions
 
 <div align="center">
   <picture>
@@ -63,4 +63,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1D94FA,50:A166FF,100:F59500&section=footer" alt="" />
-</div>
+</div> -->
