@@ -1,9 +1,11 @@
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F59500,50:A166FF,100:1D94FA&text=Laura%20Carandang&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Product%20Leader&descSize=20&descAlignY=55" alt="Laura Carandang" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F59500,50:A166FF,100:1D94FA&text=Laura%20Carandang&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Product%20Leader&descSize=20&descAlignY=55" alt="Laura Carandang" /></picture>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=600&size=21&center=true&vCenter=true&width=560&height=42&color=A166FF&duration=3000&pause=800&lines=8%2B+years+at+Amazon+and+AWS;LLM-powered+systems;Conversational+AI;Intelligent+automation" alt="LLM-powered systems, conversational AI, intelligent automation" />
+  <picture><img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&weight=600&size=21&center=true&vCenter=true&width=560&height=42&color=A166FF&duration=3000&pause=800&lines=8%2B+years+at+Amazon+and+AWS;LLM-powered+systems;Conversational+AI;Intelligent+automation" alt="LLM-powered systems, conversational AI, intelligent automation" /></picture>
 </p>
 
 <p align="center">
@@ -11,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carandangl&label=Profile%20views&color=A166FF&style=for-the-badge" alt="Profile views" />
+  <picture><img src="https://komarev.com/ghpvc/?username=carandangl&label=Profile%20views&color=A166FF&style=for-the-badge" alt="Profile views" /></picture>
 </p>
 
 <br>
@@ -40,11 +42,11 @@
 ## Tools I work with
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,aws,postgres,js,html,css,git,figma" alt="Python, AWS, PostgreSQL, JavaScript, HTML, CSS, Git, Figma" />
+  <picture><img src="https://skillicons.dev/icons?i=py,aws,postgres,js,html,css,git,figma" alt="Python, AWS, PostgreSQL, JavaScript, HTML, CSS, Git, Figma" /></picture>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" />
+  <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva" /></picture>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/datagrip/21D789" height="48" alt="DataGrip" />
+  <picture><img src="https://cdn.simpleicons.org/datagrip/21D789" height="48" alt="DataGrip" /></picture>
   <br><br>
   <sub>Python &middot; AWS &middot; PostgreSQL &middot; JavaScript &middot; HTML &middot; CSS &middot; Git &middot; Figma &middot; Canva &middot; DataGrip</sub>
 </div>
@@ -62,5 +64,5 @@
 </div> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1D94FA,50:A166FF,100:F59500&section=footer" alt="" />
-</div> 
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1D94FA,50:A166FF,100:F59500&section=footer" alt="" /></picture>
+</div>
