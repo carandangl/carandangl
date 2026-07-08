@@ -59,8 +59,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carandangl/carandangl/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/carandangl/carandangl/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1D94FA,50:A166FF,100:F59500&section=footer" alt="" />
-</div> -->
+</div> 
